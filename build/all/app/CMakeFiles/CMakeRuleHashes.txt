@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+71c690a076281e2573cf4f9882680fdc CMakeFiles/deer-danger.desktop
+cd9d8baaaf32c845dd96ffa18523fa25 po/CMakeFiles/deer-danger.wolf-deer-snake-inc.pot

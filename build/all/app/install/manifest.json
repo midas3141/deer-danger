@@ -1,0 +1,15 @@
+{
+    "name": "deer-danger.wolf-deer-snake-inc",
+    "description": "kys",
+    "architecture": "all",
+    "title": "Deer Danger",
+    "hooks": {
+        "deer-danger": {
+            "apparmor": "deer-danger.apparmor",
+            "desktop":  "deer-danger.desktop"
+        }
+    },
+    "version": "1.0.0",
+    "maintainer": "Ellor Taapken <ik@midastaapken.com>",
+    "framework" : "ubuntu-sdk-20.04.1"
+}

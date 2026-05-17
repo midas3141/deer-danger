@@ -1,0 +1,6 @@
+/./manifest.json
+//deer-danger.apparmor
+//assets/logo.svg
+//qml/Main.qml
+//qml/dangers.json
+//deer-danger.desktop

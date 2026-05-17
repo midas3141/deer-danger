@@ -1,0 +1,15 @@
+/home/shork-kisser/deer-danger/build/all/app/CMakeFiles/deer-danger.desktop.dir
+/home/shork-kisser/deer-danger/build/all/app/CMakeFiles/deer-danger_FILES.dir
+/home/shork-kisser/deer-danger/build/all/app/CMakeFiles/edit_cache.dir
+/home/shork-kisser/deer-danger/build/all/app/CMakeFiles/rebuild_cache.dir
+/home/shork-kisser/deer-danger/build/all/app/CMakeFiles/list_install_components.dir
+/home/shork-kisser/deer-danger/build/all/app/CMakeFiles/install.dir
+/home/shork-kisser/deer-danger/build/all/app/CMakeFiles/install/local.dir
+/home/shork-kisser/deer-danger/build/all/app/CMakeFiles/install/strip.dir
+/home/shork-kisser/deer-danger/build/all/app/po/CMakeFiles/deer-danger.wolf-deer-snake-inc.pot.dir
+/home/shork-kisser/deer-danger/build/all/app/po/CMakeFiles/edit_cache.dir
+/home/shork-kisser/deer-danger/build/all/app/po/CMakeFiles/rebuild_cache.dir
+/home/shork-kisser/deer-danger/build/all/app/po/CMakeFiles/list_install_components.dir
+/home/shork-kisser/deer-danger/build/all/app/po/CMakeFiles/install.dir
+/home/shork-kisser/deer-danger/build/all/app/po/CMakeFiles/install/local.dir
+/home/shork-kisser/deer-danger/build/all/app/po/CMakeFiles/install/strip.dir
